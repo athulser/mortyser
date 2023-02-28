@@ -1,0 +1,18 @@
+QUERY :  sexy girl
+
+Your request was rejected as a result of our safety system. Your prompt may contain text that is not allowed by our safety system.
+TRACEBACK
+
+<built-in method with_traceback of InvalidRequestError object at 0x000001247DD5E2C0>
+
+---------------------
+
+QUERY :  cutte girl ass
+
+Your request was rejected as a result of our safety system. Your prompt may contain text that is not allowed by our safety system.
+TRACEBACK
+
+<built-in method with_traceback of InvalidRequestError object at 0x000001247DD5E140>
+
+---------------------
+
