@@ -14,7 +14,7 @@ bot = telebot.TeleBot(TELE_API_KEY, threaded=True)
 openai.api_key = AI_API_KEY
 
 
-# FUNCTION TO SEARCH VIDEO AND RETURN DICT OF TITLE AND CORRESPONDING URL
+# FUNCTION TO SEARCH VIDEO AND RETURN DICTIONARY OF TITLE AND CORRESPONDING URL
 def searchVideo(title):
     data = {}
     html = urllib.request.urlopen(f"https://www.youtube.com/results?search_query={title}")
